@@ -21,7 +21,7 @@ Screenshots 1-12 describe:
 3. How to create table
 4. How to load data in table
 
-KeyNote:- Since required date format is mm-dd-yyyy, however data file contains date in dd-mm-yyyy, therefore, two tables are created
+KeyNote:- Since required date format is mm-dd-yyyy, however data file contains date in dd-mm-yyyy format, therefore, two tables are created
 
 -> "temp_data" table captures data in the same format as in data file
 -> "temperature_data" table captures data from "temp_data" but date field now contains date in mm-dd-yyyy format as asked in the assignment.
